@@ -1,7 +1,7 @@
 add_compile_definitions
 -----------------------
 
-.. versionadded:: 3.12
+.. versionadded:: 3.13
 
 Add preprocessor definitions to the compilation of source files.
 
